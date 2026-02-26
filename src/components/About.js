@@ -10,7 +10,7 @@ function About() {
     },
     {
       name: "V. Chethan Kumar",
-      role: "Content Creator",
+      role: "Developer",
       image:
         "https://res.cloudinary.com/dqdbw0aab/image/upload/v1730615745/861eec4c-5db9-466e-8c98-a4611ba89e61_1_kszy7r.jpg"
     },
